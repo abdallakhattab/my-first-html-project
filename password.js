@@ -6,7 +6,7 @@
 //} else { alert('I Love you'); }
 // password input
 
-var  userpassword = prompt('inter the password');
-var password = '123qwe@';
+var  userpassword = prompt('inter the password ..NOTE: the password is 123');
+var password = '123';
 
 while(userpassword !== password){userpassword = prompt('inter the password')}
