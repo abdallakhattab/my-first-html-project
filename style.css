@@ -8,7 +8,8 @@ header nav ul li{
 }
  header h1{ 
     background-color: darkslategray;
-    color: rgba(64, 150, 156,0.9);
+    color:hsl(200, 95%, 55%)
+
      height: 100px; 
      margin-left: 0px;
     margin-top: 0% ;
