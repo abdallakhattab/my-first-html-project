@@ -22,3 +22,11 @@
 //var link = <a herf = 'https://www.google.com/?gws_rd=ssl' ></a>
 
 //console.log(link)
+/*  <style> the thing you wana style { color : red ;}
+or by an external file .
+colors are added by name loke :red . green ets.. 
+or by hexadecimal 
+  CONTROL AND / will came a comint
+  the main deff. between section and the div tag is section is semantic .
+  the space between elements is called a margin
+  rgba will change the color

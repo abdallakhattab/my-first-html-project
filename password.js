@@ -6,7 +6,9 @@
 //} else { alert('I Love you'); }
 // password input
 
-var  userpassword = prompt('inter the password ..NOTE: the password is 123');
-var password = '123';
+// var  userpassword = prompt('inter the password ..NOTE: the password is 123');
+// var password = '123';
 
-while(userpassword !== password){userpassword = prompt('inter the password')}
+// while(userpassword !== password){userpassword = prompt('inter the password')}
+
+// console.log('<a herf = "https://ts3.arabics.travian.com/login.php"></a>')
